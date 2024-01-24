@@ -1,0 +1,11 @@
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\bin\Debug\boterkaaseieren.exe.config
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\bin\Debug\boterkaaseieren.exe
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\bin\Debug\boterkaaseieren.pdb
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.csproj.AssemblyReference.cache
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.Form1.resources
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.Properties.Resources.resources
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.csproj.GenerateResource.cache
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.csproj.CoreCompileInputs.cache
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.exe
+C:\Users\Vives\OneDrive - Zadkine\Keuzedeel\boterkaaseieren\boterkaaseieren\obj\Debug\boterkaaseieren.pdb
